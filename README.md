@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BharathMopuru
-- 👀 I’m interested in COADING.
+- 👀 I’m interested in CODING.
 - 🌱 I’m currently learning DevOps.
 - 💞️ I’m looking to collaborate on App Devolopment.
 - 📫 How to reach me  ... reach me at <bharath.mopuru@gmail.com>
